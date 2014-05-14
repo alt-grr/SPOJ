@@ -1,0 +1,1 @@
+main(a){for(;~scanf("%c",&a);a<65?:printf("%c%c ",a/5+36,a%5+49))a<74?:a--;}
